@@ -2,7 +2,7 @@
 A collection of all available LLMs with Colab. Just play and chat!
 
 # LLMs
-|Model|tuning tech|Colab|weights|performance|memory|speed|lang|
+|Model|pruning tech|Colab|weights|performance|memory|speed|lang|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |ChatGPT|-|-|-|-|-|-|
 |Alpaca|-|-|-|-|-|-|
