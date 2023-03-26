@@ -6,5 +6,5 @@ A collection of all available LLMs with Colab
 |:-:|:-:|:-:|:-:|:-:|
 |ChatGPT|-|-|-|-|
 |Alpaca|-|-|-|-|
-|Alpaca|gptq|-|:cn:|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)|
+|Alpaca|gptq|:x:bloom7b-2m-8bit-128g|:cn:|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11T3VoOeRtDFejwRsXWJzKpzdTEHzWO-d?usp=sharing)|
 |Bloom|gptq|-|-|-|
